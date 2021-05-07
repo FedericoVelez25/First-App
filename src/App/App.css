@@ -1,0 +1,80 @@
+* {
+  font-family: Manrope;
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: bold;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menuContainer {
+  display: inline-flex;
+  align-items: center;
+}
+.menuContainer > * {
+  margin: 10px;
+}
+.logo {
+  margin-left: 20px;
+  margin-top: 5px;
+}
+.buttonPrimario {
+  background: #f1e4ff;
+  border-radius: 8px;
+  border: 0;
+  padding: 10px 31px;
+  color: #8c30f5;
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.buttonSecundario {
+  background: #8c30f5;
+  border-radius: 8px;
+  border: 0;
+  padding: 10px 24px 10px 25px;
+  color: #ffffff;
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.buttonPrimario:hover {
+  background: #8c30f5;
+  color: white;
+}
+
+.firstArticleText {
+  position: static;
+  width: 540px;
+  height: 64px;
+  left: 0px;
+  top: 180px;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.buttonCallToAction {
+  background: #8c30f5;
+  border-radius: 8px;
+  border: 0;
+  padding: 16px 41px;
+  color: #ffffff;
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+.firstSection {
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 10px 10px 10px 10px;
+}
