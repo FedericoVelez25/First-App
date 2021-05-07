@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header>
         <div>
-          <h3>LOGO</h3>
+          <h3>LOGO-FRITO</h3>
         </div>
     <div className="menuContainer">
         <p>How it works</p>
